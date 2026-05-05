@@ -91,7 +91,7 @@ EduPortal-React/
 
 This project follows a **realistic engineering progression**:
 
-### Phase 1 – Frontend Foundation (Feb)
+### Phase 1 – Frontend Foundation
 
 * Setup React + Vite
 * Built authentication UI (Login / Signup)
