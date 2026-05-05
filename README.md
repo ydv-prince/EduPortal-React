@@ -97,19 +97,19 @@ This project follows a **realistic engineering progression**:
 * Built authentication UI (Login / Signup)
 * Created student-facing pages
 
-### Phase 2 – Feature Expansion (Feb–Mar)
+### Phase 2 – Feature Expansion
 
 * Instructor dashboard & routing
 * Tailwind styling + reusable components
 * Added course-related pages
 
-### Phase 3 – Backend Integration (Mar–Apr)
+### Phase 3 – Backend Integration
 
 * Designed REST APIs
 * Implemented authentication (JWT)
 * Created models (User, Course, Instructor)
 
-### Phase 4 – System Finalization (Apr–May)
+### Phase 4 – System Finalization
 
 * Middleware (role validation)
 * Upload handling
